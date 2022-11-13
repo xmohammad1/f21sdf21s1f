@@ -1,0 +1,7 @@
+trojan://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@fr.teacher2040.com:43318?security=tls&headerType=none&type=tcp&sni=fr.teacher2040.com#France+%F0%9F%87%AB%F0%9F%87%B7
+trojan://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@de.teacher2040.com:43251?security=tls&headerType=none&type=tcp&sni=de.teacher2040.com#Germany+%F0%9F%87%A9%F0%9F%87%AA
+vless://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@sw-1-fast.teacher2060.com:41313?security=tls&encryption=none&headerType=none&type=tcp&sni=sw-tls-1.teacher2060.com#Switzerland+%F0%9F%87%A8%F0%9F%87%AD
+vless://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@tk-nf-route.teacher2060.com:41256?security=tls&encryption=none&headerType=none&type=tcp&sni=tk-tls-1.teacher2060.com#Turkey+%F0%9F%87%B9%F0%9F%87%B7
+trojan://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@uk.teacher2040.com:43224?security=tls&headerType=none&type=tcp&sni=uk.teacher2040.com#UK+%F0%9F%87%AC%F0%9F%87%A7
+trojan://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@fr.teacher2040.com:43318?security=tls&headerType=none&type=tcp&sni=fr.teacher2040.com#Download+SERVER+%28France+%F0%9F%87%AB%F0%9F%87%B7%29
+vless://F66BD3FF-4DBD-B70F-8B0B-80F6B52D8142@ru-1-fast.teacher2060.com:41319?security=tls&encryption=none&headerType=none&type=tcp&sni=ru-tls-1.teacher2060.com#Download+SERVER+%28Russia+%F0%9F%87%B7%F0%9F%87%BA%29
